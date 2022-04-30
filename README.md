@@ -5,21 +5,21 @@
  
 Una vez un jugador presiona una tecla observa algo como lo siguiente:
 
-![Inicio](http://https://raw.githubusercontent.com/arleserp/UnConsoleAReal/main/UnConsoleAReal/img/Inicial.png)
-![2](http://https://raw.githubusercontent.com/arleserp/UnConsoleAReal/main/UnConsoleAReal/img/Picture2.png)
+![Inicio](https://raw.githubusercontent.com/arleserp/UnConsoleAReal/main/UnConsoleAReal/img/Inicial.png)
+![Pantalla inicial 2](https://raw.githubusercontent.com/arleserp/UnConsoleAReal/main/UnConsoleAReal/img/Picture2.png)
  
 •	Como todo motor de videojuegos se cuenta con un demo básico. El jugador se identifica con la letra O, las X son posiciones donde se puede mover. Las letras N corresponden a enemigos ubicados de forma aleatoria en la pantalla del juego:
 
-![3](http://https://raw.githubusercontent.com/arleserp/UnConsoleAReal/main/UnConsoleAReal/img/Picture3.png)
+![Descripción del demo](https://raw.githubusercontent.com/arleserp/UnConsoleAReal/main/UnConsoleAReal/img/Picture3.png)
  
 •	El jugador se mueve con las teclas ASDW y se puede modificar el juego para recibir más acciones:
  
-![4](http://https://raw.githubusercontent.com/arleserp/UnConsoleAReal/main/UnConsoleAReal/img/Picture4.png)
+![Movimientos Iniciales Definidos](https://raw.githubusercontent.com/arleserp/UnConsoleAReal/main/UnConsoleAReal/img/Picture4.png)
  
 
 •	Cada vez que el jugador realiza un movimiento, se suma uno al puntaje:
 
-![5](http://https://raw.githubusercontent.com/arleserp/UnConsoleAReal/main/UnConsoleAReal/img/Picture5.png)
+![Imagen Puntaje](https://raw.githubusercontent.com/arleserp/UnConsoleAReal/main/UnConsoleAReal/img/Picture5.png)
 
 •	Al tratar de salir del tablero el juego se traba porque se espera que los desarrolladores controlen los límites del tablero o si quieren lo hagan funcionar como un tablero toroidal donde se puede salir por un lado del tablero y aparecer por otro lado (¡esto se puede hacer con el operador módulo!)
 
